@@ -28,7 +28,9 @@ https://dotnet.microsoft.com/download/dotnet/5.0/runtime?utm_source=getdotnetcor
 
 からダウンロードしてください。Desktop Runtime の方です。
 
-その後このアプリをダウンロードしてください。多分GitHubのReleaseにあります。
+その後このアプリをダウンロードしてください。  
+
+https://github.com/takusan23/TouchPrtSc/releases
 
 # 仕組み
 `Windowsキー`+`PrintScreenキー`を押す操作を`WindowsAPI`の`SendInput`関数を`C#`から操作できるようにした。
